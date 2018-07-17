@@ -6,4 +6,5 @@ main.remove();
 document.createElement('newHeader');
 
 newHeader.innerHTML("I'm the best"); 
+
 document.body.appendChild('h1'); 
