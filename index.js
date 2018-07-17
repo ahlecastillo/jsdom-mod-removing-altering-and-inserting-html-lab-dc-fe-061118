@@ -5,6 +5,4 @@ main.remove();
 
 
 var newHeader = document.createElement('victory');
-
-document.body.appendChild('h1'); 
-
+const newHeader.innerText = "i'm the best";
