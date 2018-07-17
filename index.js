@@ -3,7 +3,8 @@ main.remove();
 
 /* Create your new element here and assign it to newHeader */
 
-document.createElement('newHeader');
+
+var newHeader = document.createElement('victory');
 
 newHeader.innerHTML("I'm the best"); 
 
