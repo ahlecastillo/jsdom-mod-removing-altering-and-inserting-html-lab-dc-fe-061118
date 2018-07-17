@@ -6,3 +6,4 @@ main.remove();
 
 const newHeader = document.createElement('h1');
 newHeader.innerText = "Ale is the champion"
+newHeader.id = 'victory'
