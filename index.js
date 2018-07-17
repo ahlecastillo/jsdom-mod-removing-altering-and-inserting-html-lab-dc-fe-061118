@@ -5,5 +5,4 @@ main.remove();
 
 
 const newHeader = document.createElement('h1');
-const newHeader.innerText = "i'm the best";
-newHeader.id = victory
+newHeader.innerText = "Ale is the champion"
